@@ -1,0 +1,28 @@
+
+ <!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>welcome</title>
+
+</head>
+
+<body background ="img2a.jpg" height="250px" width="200px" > <center>
+
+<p><font	size="20"	color="pink">WELCOME	TO	SCHOOL	TEXT	BOOK
+
+DISTRIBUTION</font></p>
+
+<br><br><br>
+
+<a href="introduction.html"><font color=orange> CONTINUE.....</font></a>
+
+</center>
+
+</body>
+
+</html>
